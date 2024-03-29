@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="125b66b3-4af1-44ac-a365-a68b8101d3ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foodWithOnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foodWithSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hotdog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loyalty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eKuzoZJ5tdXjtWW5pGtEZTFe4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.driver.executor": "Run",
+    "JUnit.calcTest.testaddtwo.executor": "Run",
+    "JUnit.testCases.executor": "Run",
+    "JUnit.testCases.testaddOrder.executor": "Run",
+    "JUnit.testCases.testbronzeLoyalty.executor": "Run",
+    "JUnit.testCases.testfoodWithOnion.executor": "Run",
+    "JUnit.testCases.testfoodWithSauce.executor": "Run",
+    "JUnit.testCases.testgetPrice.executor": "Run",
+    "JUnit.testCases.testgetPriceFries.executor": "Run",
+    "JUnit.testCases.testgetPriceHotdog.executor": "Run",
+    "JUnit.testCases.testgoldLoyalty.executor": "Run",
+    "JUnit.testCases.testorderCost.executor": "Run",
+    "JUnit.testCases.testsilverLoyalty.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Ivan/IdeaProjects/CS4800_HW5/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.driver">
+    <configuration name="driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.driver" />
+      <module name="CS4800_HW5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testCases" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCases.testbronzeLoyalty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testCases" />
+      <option name="METHOD_NAME" value="testbronzeLoyalty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCases.testgoldLoyalty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testCases" />
+      <option name="METHOD_NAME" value="testgoldLoyalty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCases.testsilverLoyalty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS4800_HW5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testCases" />
+      <option name="METHOD_NAME" value="testsilverLoyalty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.driver" />
+        <item itemvalue="JUnit.testCases" />
+        <item itemvalue="JUnit.testCases.testbronzeLoyalty" />
+        <item itemvalue="JUnit.testCases.testsilverLoyalty" />
+        <item itemvalue="JUnit.testCases.testgoldLoyalty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="125b66b3-4af1-44ac-a365-a68b8101d3ba" name="Changes" comment="" />
+      <created>1711665862749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711665862749</updated>
+      <workItem from="1711665863823" duration="2323000" />
+      <workItem from="1711670616884" duration="1877000" />
+      <workItem from="1711679557648" duration="6949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/testCases.java</url>
+          <line>48</line>
+          <properties class="testCases" method="testfoodWithSauce">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
