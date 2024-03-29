@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="125b66b3-4af1-44ac-a365-a68b8101d3ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foodWithOnion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/foodWithSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/hotdog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loyalty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +63,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.driver">
+  <component name="RunManager" selected="JUnit.testCases">
     <configuration name="driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.driver" />
       <module name="CS4800_HW5" />
@@ -133,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.driver" />
         <item itemvalue="JUnit.testCases" />
+        <item itemvalue="Application.driver" />
         <item itemvalue="JUnit.testCases.testbronzeLoyalty" />
         <item itemvalue="JUnit.testCases.testsilverLoyalty" />
         <item itemvalue="JUnit.testCases.testgoldLoyalty" />
@@ -158,7 +143,7 @@
       <updated>1711665862749</updated>
       <workItem from="1711665863823" duration="2323000" />
       <workItem from="1711670616884" duration="1877000" />
-      <workItem from="1711679557648" duration="6949000" />
+      <workItem from="1711679557648" duration="7437000" />
     </task>
     <servers />
   </component>
